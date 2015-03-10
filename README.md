@@ -1,6 +1,5 @@
 # NumberToString
-Class PHP pour convertir un nombre en toute lettre avec monnaie en francais.
-Par défault monnaie en euro.
+Class PHP pour convertir un nombre en toute lettre avec monnaie en francais, par défault monnaie en euro.
 
 
 Utilisation :
